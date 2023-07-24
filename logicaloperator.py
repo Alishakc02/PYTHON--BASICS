@@ -1,0 +1,6 @@
+print(3>2 and 5<7)
+print(2>1 and 1>2)
+print(2>8 or 11>8)
+print(5>9 or 5<7)
+print(not 3>2 )
+print(not 2<1)
